@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td><strong>Address</strong></td>
-      <td>3 Briar Bridge Lane, Chapel Hill, NC 27516</td>
+      <td>Chapel Hill, NC 27516</td>
     </tr>
     <tr>
       <td><strong>Type of Business</strong></td>
@@ -176,7 +176,6 @@ In alignment with the [U.S. Digital Services Playbook](https://playbook.cio.gov/
           <li>Monitoring</li>
           <li>Continuous security</li>
           <li>Cloud-based delivery</li>
-          <li>Team culture</li>
           <li>Continuous improvement</li>
         </ul>
       </td>
