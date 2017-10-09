@@ -665,5 +665,4 @@ The proposed work doesn't not have any material environmental impact.
 
 ### 3.7 Contacts made
 
-TBD
-
+We haven't directly contacted any agency official regarding this proposal. All electronic submissions of this proposal were sent to each agency’s designated email address.
