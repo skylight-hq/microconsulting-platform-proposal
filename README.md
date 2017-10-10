@@ -399,7 +399,7 @@ Key outputs will include:
 * **Infrastructure:** [cloud.gov](https://cloud.gov/)
 * **Security:** SSL, OAuth, JSON Web Tokens
 * **Testing:** Jest, Nightmare, RSpec, Shoulda, FactoryGirl
-* **Code Quality:** HTMLProofer, AccessLint, Code Climate, Nessus
+* **Code Quality:** HTMLProofer, AccessLint, Code Climate, Tenable
 * **Continuous Integration / Delivery:** Travis CI
 * **Source Code Management:** Git, GitHub
 * **Analytics:** Google Analytics
