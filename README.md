@@ -18,11 +18,11 @@
     </tr>
     <tr>
       <td><strong>Business Point of Contact</strong></td>
-      <td>Chris Cairns <br> 267-228-1390</td>
+      <td>Chris Cairns</td>
     </tr>
     <tr>
       <td><strong>Technical Point of Contact</strong></td>
-      <td>Robert L. Read, PhD <br> 512-913-6103</td>
+      <td>Robert L. Read, PhD</td>
     </tr>
     <tr>
       <td><strong>Proprietary Data</strong></td>
