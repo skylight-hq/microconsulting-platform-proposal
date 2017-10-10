@@ -390,21 +390,22 @@ Key outputs will include:
 
 [One of agile's core values](http://agilemanifesto.org/) is "working software over comprehensive documentation." This doesn't mean that documentation isn't an important part of an agile project. It is important. Unlike traditional approaches to product delivery, however, agile doesn't view documentation as the primary measure of progress. While our approach does rely on the creation and maintenance of a number of artifacts, the most important one above all is the early and frequent delivery of working software that is driven and refined through continuous engagement with end users and stakeholders.
 
-#### 2.4.5 Modern technology stack
+#### 2.4.5 Modern technology stack (it takes a village)
 
 [Working with a modern technology stack](https://playbook.cio.gov/#play8) is one of the core principles of the U.S. Digital Services Playbook. Our proposed technology stack, which will likely evolve as we learn more about the optimal technical approach, includes:
 
-* **Frontend:** HTML5, CSS3, SASS, U.S. Web Design Standards, JavaScript, jQuery, React
+* **Frontend:** HTML5, CSS3, SASS, U.S. Web Design Standards, JavaScript, React / Immutable.js / Redux
 * **Backend:** Rails RESTful JSON API, Puma, PostgreSQL
-* **Infrastructure:** [cloud.gov](https://cloud.gov/)
+* **Infrastructure:** [cloud.gov](https://cloud.gov/), Sentry
 * **Security:** SSL, OAuth, JSON Web Tokens
 * **Testing:** Jest, Nightmare, RSpec, Shoulda, FactoryGirl
 * **Code Quality:** HTMLProofer, AccessLint, Code Climate, Tenable
 * **Continuous Integration / Delivery:** Travis CI
 * **Source Code Management:** Git, GitHub
-* **Analytics:** Google Analytics
-* **Development Tools:** Atom
+* **Analytics:** Google Analytics, Heap
 * **Project Management:** JIRA
+
+Note: We would prefer to use Docker for containerization, but [cloud.gov's support for Docker images is currently limited](https://cloud.gov/docs/apps/experimental/docker/).
 
 #### 2.4.6 Project management
 
@@ -579,6 +580,16 @@ What we'll need from the government in order to make this a success:
 * Access to facilities and equipment (including necessary credentials).
 
 Note: Prior to the award of the contract, we would expect to confer with the contracting officer which equipment necessary to perform the work should be government furnished or contractor furnished.
+
+### 2.7 Business impact
+
+We believe that a microconsulting services marketplace platform, which leverages the micro-purchase and private-sector-temporaries authorities, could be transformative for a number of reasons:
+
+* Agency knowledge workers could rapidly acquire expert advice from industry experts on a specific topic for a relatively low cost, thereby reducing unnecessary delay and expense to government projects caused by traditional procurement actions. (We attempted to capture this scenario via a [storyboard](https://skylight.digital/img/blog/microconsulting_unsolicited_proposal/microconsulting-services-marketplace-platform-storyboard.jpg).)
+* Traditional government contracting scoping models could be significantly streamlined in favor of highly-focused, short-turnaround, low-cost engagement models, thereby increasing innovation and competition in the services marketplace.
+* The government could test out the capabilities of a firm before engaging in a larger body of work (that is, "try before buying"), thereby reducing procurement risk.
+* Past performance could be take into account without any formal rating system, thereby introducing the kind of robust use of past performance found in the commercial world. (Source: [Dr. Steve Kelman](https://fcw.com/blogs/lectern/2017/07/kelman-microconsulting.aspx).)
+* The government could tap into the "gig economy," thereby increasing access to a wider pool of talent, as well as increasing economic opportunities for non-traditional players.
 
 ## 3.0 Supporting Information
 
