@@ -593,6 +593,8 @@ We believe that a microconsulting services marketplace platform, which leverages
 * Past performance could be take into account without any formal rating system, thereby introducing the kind of robust use of past performance found in the commercial world. (Source: [Dr. Steve Kelman](https://fcw.com/blogs/lectern/2017/07/kelman-microconsulting.aspx).)
 * The government could tap into the "gig economy," thereby increasing access to a wider pool of talent, as well as increasing economic opportunities for non-traditional players.
 
+The following storyboard illustrates one potential use case for a microconsulting services marketplace platform:
+
 ![Storyboard illustrating one potential use case for a microconsulting services marketplace platform.](microconsulting-services-marketplace-platform-storyboard.jpg)
 
 ## 3.0 Supporting Information
