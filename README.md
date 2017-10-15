@@ -1,5 +1,7 @@
 # Unsolicited Proposal for a Microconsulting Services Marketplace Platform
 
+![An abstract image of a marketplace for microconsulting services.](microconsulting-services-marketplace.png)
+
 ## 1.0 Basic Information
 
 <table>
@@ -64,7 +66,7 @@ Microconsulting Services Marketplace Platform (or Expertise-as-a-Service Platfor
 
 ### 2.2 Abstract
 
-Government managers and teams are modern knowledge workers (educated, experienced, adaptable) who are capable of performing their jobs superbly. Sometimes, however, they lack specific skills/knowledge in only 1-2 areas for a given task or project. Given the nature of this task or project, it might not be possible or practical to fill those gaps through extensive training. In addition, access to internal resources with such know-how might not be available, and engaging an outside firm in a full-blown consulting engagement would simply be overkill (i.e., a waste of taxpayer resources). Microconsulting is an emerging consulting format designed to solve this problem. It features an individual or small team who produces an immediate deliverable on a specific topic for a low cost. This differs from traditional consulting, which typically features large teams who work over an extended period and produce a variety deliverables on a range of topics for a high cost. We propose constructing a software tool that will enable government workers to acquire microconsulting services using the micro-purchase authority (FAR 13.2) and the private-sector-temporaries authority (FAR 37.112). (See our [pre-announcement](https://skylight.digital/blog/unsolicited-proposal-for-a-microconsulting-services-marketplace-platform/) for more information.)
+Government managers and teams are modern knowledge workers (educated, experienced, adaptable) who are capable of performing their jobs superbly. Sometimes, however, they lack specific skills/knowledge in only 1-2 areas for a given task or project. Given the nature of this task or project, it might not be possible or practical to fill those gaps through extensive training. In addition, access to internal resources with such know-how might not be available, and engaging an outside firm in a full-blown consulting engagement would simply be overkill (i.e., a waste of taxpayer resources). Microconsulting is an emerging consulting format designed to solve this problem. It features an individual or small team who produces an immediate deliverable on a specific topic for a low cost. This differs from traditional consulting, which typically features large teams who work over an extended period and produce a variety deliverables on a range of topics for a high cost. We propose constructing a software tool that will enable government workers to acquire microconsulting services using the micro-purchase authority (FAR 13.2) and the private-sector-temporaries authority (FAR 37.112). (See our [preannouncement](https://skylight.digital/blog/unsolicited-proposal-for-a-microconsulting-services-marketplace-platform/) for more information.)
 
 ### 2.3 Objectives of the effort
 
@@ -78,7 +80,7 @@ The overarching goal of the proposed effort is to develop a vibrant, digitally-p
 
 ### 2.4 Method of approach
 
-Our proposed approach is designed to increase the government's probability of success in funding this effort by featuring the following key elements, which are detailed in the sections that follow:
+Our proposed approach is designed to increase the government's probability of project success by featuring the following key elements, which are detailed in the sections that follow:
 
 * Modern digital delivery practices
 * Cross-functional team
