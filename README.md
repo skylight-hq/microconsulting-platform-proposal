@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td><strong>Date of Submission</strong></td>
-      <td>10/20/2017</td>
+      <td>10/31/2017</td>
     </tr>
     <tr>
       <td><strong>Authorizing Official</strong></td>
@@ -543,12 +543,12 @@ We propose a cross-functional team of six people in total who will perform the r
     </tr>
     <tr>
       <td>User Experience Designer / User Interface Designer</td>
-      <td>TBD (Some Company)</td>
+      <td>Laura Chang (EchoUser)</td>
       <td>
         <ul>
-          <li>TBD</li>
-          <li>TBD</li>
-          <li>TBD</li>
+          <li>Specializes in user experience and user interface design</li>
+          <li>Former Design Strategist at Google</li>
+          <li>Holds a Bachelor of Science in Product Design from Stanford University</li>
         </ul>
       </td>
     </tr>
