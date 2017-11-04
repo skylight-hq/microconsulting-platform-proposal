@@ -72,7 +72,7 @@ Government managers and teams are modern knowledge workers (educated, experience
 
 The overarching goal of the proposed effort is to develop a vibrant, digitally-powered marketplace through which government personnel and industry experts fluidly engage in microconsulting projects (the "product"). Toward that end, the main objectives are to:
 
-* Understand the context of the proposed products's use (e.g., user needs, regulatory constraints), validate the problem that the product's intended to solve exists, and validate that the product idea solves the problem through customer experiments
+* Understand the context of the proposed product's use (e.g., user needs, regulatory constraints), validate the problem that the product's intended to solve exists, and validate that the product idea solves the problem through customer experiments
 * Establish the direction of the product, including a list of prioritized features and a defined minimum viable product (MVP)
 * Build a working prototype that meets the main user needs and evaluate its usefulness and usability
 * Build a fully working product, test it with a larger subset of users, and prepare for live launch
