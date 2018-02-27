@@ -587,7 +587,7 @@ Note: Prior to the award of the contract, we would expect to confer with the con
 
 We believe that a microconsulting services marketplace platform, which leverages the micro-purchase and private-sector-temporaries authorities, could be transformative for a number of reasons:
 
-* Agency knowledge workers could rapidly acquire expert advice from industry experts on a specific topic for a relatively low cost, thereby reducing unnecessary delay and expense to government projects caused by traditional procurement actions.
+* Agency knowledge workers could rapidly acquire support from industry experts on a specific topic for a relatively low cost, thereby reducing unnecessary delay and expense to government projects caused by traditional procurement actions.
 * Traditional government contracting scoping models could be significantly streamlined in favor of more highly-focused, short-turnaround, low-cost engagement models, thereby increasing innovation and competition in the services marketplace.
 * The government could test out the capabilities of a firm before engaging in a larger body of work (that is, "try before buying"), thereby reducing procurement risk.
 * Past performance could be take into account without any formal rating system, thereby introducing the kind of robust use of past performance found in the commercial world. (Source: [Dr. Steve Kelman](https://fcw.com/blogs/lectern/2017/07/kelman-microconsulting.aspx).)
