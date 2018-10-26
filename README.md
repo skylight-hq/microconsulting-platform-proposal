@@ -413,7 +413,7 @@ Note: We would prefer to use Docker for containerization, but [cloud.gov's suppo
 
 Skylight will provide a project manager to serve as the primary point of contact for the government's program office in order facilitate the successful planning and execution of this proposed project.
 
-The Skylight project manager and team will collaborative closely with the government's assigned product owner on all aspects of the product.
+The Skylight project manager and team will collaborate closely with the government's assigned product owner on all aspects of the product.
 
 When issues arise that directly affect Skylight's ability to perform, we will provide written, timely notification (within 24 hours of any anticipated or known impact) to the contracting officer's representative (COR) and the product owner.
 
