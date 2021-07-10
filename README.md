@@ -396,13 +396,13 @@ Key outputs will include:
 
 [Working with a modern technology stack](https://playbook.cio.gov/#play8) is one of the core principles of the U.S. Digital Services Playbook. Our proposed technology stack, which will likely evolve as we learn more about the optimal technical approach, includes:
 
-* **Frontend:** HTML5, CSS3, SASS, U.S. Web Design Standards, JavaScript, React / Immutable.js / Redux
+* **Frontend:** HTML5, CSS3, SASS, U.S. Web Design Standards, JavaScript, React/Immutable.js/Redux
 * **Backend:** Rails RESTful JSON API, Puma, PostgreSQL
 * **Infrastructure:** [cloud.gov](https://cloud.gov/), Sentry
 * **Security:** SSL, OAuth, JSON Web Tokens
 * **Testing:** Jest, Nightmare, RSpec, Shoulda, FactoryGirl
 * **Code Quality:** HTMLProofer, AccessLint, Code Climate, Tenable
-* **Continuous Integration / Delivery:** Travis CI
+* **Continuous Integration/Delivery:** Travis CI
 * **Source Code Management:** Git, GitHub
 * **Analytics:** Google Analytics, Heap
 * **Project Management:** JIRA
@@ -516,7 +516,7 @@ We propose a cross-functional team of six people in total who will perform the r
   </thead>
   <tbody>
     <tr>
-      <td>Project Manager / Agile Coach</td>
+      <td>Project Manager/Agile Coach</td>
       <td>Robert L. Read (Skylight)</td>
       <td>
         <ul>
@@ -542,7 +542,7 @@ We propose a cross-functional team of six people in total who will perform the r
       </td>
     </tr>
     <tr>
-      <td>User Experience Designer / User Interface Designer</td>
+      <td>User Experience Designer/User Interface Designer</td>
       <td>Laura Chang (EchoUser)</td>
       <td>
         <ul>
