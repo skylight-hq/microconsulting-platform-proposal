@@ -7,16 +7,16 @@
 <table>
   <tbody>
     <tr>
-      <td><strong>Offeror's Name</strong></td>
-      <td>Skylight Digital LLC</td>
+      <td><strong>Offeror’s Name</strong></td>
+      <td>Skylight Inc.</td>
     </tr>
     <tr>
       <td><strong>Address</strong></td>
-      <td>Chapel Hill, NC 27516</td>
+      <td>1226 N. Tamiami Trail, Suite 201-13, Sarasota, FL 34236</td>
     </tr>
     <tr>
       <td><strong>Type of Business</strong></td>
-      <td>For-profit HUBZone small business</td>
+      <td>Small business</td>
     </tr>
     <tr>
       <td><strong>Business Point of Contact</strong></td>
@@ -35,17 +35,17 @@
       <td>
         <p>The proposal has been submitted to the following agencies:</p>
         <ul>
-          <li>Department of Homeland Security - Headquarters Office of Procurement Operations</li>
-          <li>U.S. Department of the Treasury - Office of the Procurement Executive</li>
-          <li>U.S. Department of State - Office of Acquisitions Management</li>
-          <li>U.S. Department of Energy - National Energy Technology Laboratory</li>
+          <li>Department of Homeland Security — Headquarters Office of Procurement Operations</li>
+          <li>U.S. Department of the Treasury — Office of the Procurement Executive</li>
+          <li>U.S. Department of State — Office of Acquisitions Management</li>
+          <li>U.S. Department of Energy — National Energy Technology Laboratory</li>
         </ul>
         <p>Note: We intended to submit to several other agencies, but could not find public information on how to do so.</p>
       </td>
     </tr>
     <tr>
       <td><strong>Proposal Funding</strong></td>
-      <td>This proposal has not received any funding to-date.</td>
+      <td>This proposal hasn’t received any funding to-date.</td>
     </tr>
     <tr>
       <td><strong>Date of Submission</strong></td>
@@ -66,13 +66,13 @@ Microconsulting Services Marketplace Platform (or Expertise-as-a-Service Platfor
 
 ### 2.2 Abstract
 
-Government managers and teams are modern knowledge workers (educated, experienced, adaptable) who are capable of performing their jobs superbly. Sometimes, however, they lack specific skills/knowledge in only 1-2 areas for a given task or project. Given the nature of this task or project, it might not be possible or practical to fill those gaps through extensive training. In addition, access to internal resources with such know-how might not be available, and engaging an outside firm in a full-blown consulting engagement would simply be overkill (i.e., a waste of taxpayer resources). Microconsulting is an emerging consulting format designed to solve this problem. It features an individual or small team who produces an immediate deliverable on a specific topic for a low cost. This differs from traditional consulting, which typically features large teams who work over an extended period and produce a variety deliverables on a range of topics for a high cost. We propose constructing a software tool that will enable government workers to acquire microconsulting services using the micro-purchase authority (FAR 13.2) and the private-sector-temporaries authority (FAR 37.112). (See our [preannouncement](https://skylight.digital/blog/unsolicited-proposal-for-a-microconsulting-services-marketplace-platform/) for more information.)
+Government managers and teams are modern knowledge workers (educated, experienced, adaptable) who are capable of performing their jobs superbly. Sometimes, however, they lack specific skills/knowledge in only 1–2 areas for a given task or project. Given the nature of this task or project, it might not be possible or practical to fill those gaps through extensive training. In addition, access to internal resources with such know-how might not be available, and engaging an outside firm in a full-blown consulting engagement would simply be overkill (i.e., a waste of taxpayer resources). Microconsulting is an emerging consulting format designed to solve this problem. It features an individual or small team who produces an immediate deliverable on a specific topic for a low cost. This differs from traditional consulting, which typically features large teams who work over an extended period and produce a variety of deliverables on a range of topics for a high cost. We propose constructing a software tool that will enable government workers to acquire microconsulting services using the micro-purchase authority (FAR 13.2) and the private-sector-temporaries authority (FAR 37.112). (See our [preannouncement](https://skylight.digital/blog/unsolicited-proposal-for-a-microconsulting-services-marketplace-platform/) for more information.)
 
 ### 2.3 Objectives of the effort
 
-The overarching goal of the proposed effort is to develop a vibrant, digitally-powered marketplace through which government personnel and industry experts fluidly engage in microconsulting projects (the "product"). Toward that end, the main objectives are to:
+The overarching goal of the proposed effort is to develop a vibrant, digitally-powered marketplace through which government personnel and industry experts fluidly engage in microconsulting projects (the “product”). Toward that end, the main objectives are to:
 
-* Understand the context of the proposed product's use (e.g., user needs, regulatory constraints), validate the problem that the product's intended to solve exists, and validate that the product idea solves the problem through customer experiments
+* Understand the context of the proposed products’s use (e.g., user needs, regulatory constraints), validate the problem that the product’s intended to solve exists, and validate that the product idea solves the problem through customer experiments
 * Establish the direction of the product, including a list of prioritized features and a defined minimum viable product (MVP)
 * Build a working prototype that meets the main user needs and evaluate its usefulness and usability
 * Build a fully working product, test it with a larger subset of users, and prepare for live launch
@@ -80,7 +80,7 @@ The overarching goal of the proposed effort is to develop a vibrant, digitally-p
 
 ### 2.4 Method of approach
 
-Our proposed approach is designed to increase the government's probability of project success by featuring the following key elements, which are detailed in the sections that follow:
+Our proposed approach is designed to increase the government’s probability of project success by featuring the following key elements, which are detailed in the sections that follow:
 
 * Modern digital delivery practices
 * Cross-functional team
@@ -195,22 +195,22 @@ In alignment with the [U.S. Digital Services Playbook](https://playbook.cio.gov/
   </tbody>
 </table>
 
-Note: The key practices listed here are the ones that we most anticipate using for this project. There are many additional practices that aren't listed, but will be incorporated as necessary.
+Note: The key practices listed here are the ones that we most anticipate using for this project. There are many additional practices that aren’t listed, but will be incorporated as necessary.
 
 #### 2.4.2 Cross-functional team
 
 We plan to deploy a multi-disciplinary team of talented digital experts who, as a collective whole, possess the critical know-how necessary to ship an amazing product. Talented, cross-functional teams produce superior results. The roles that we propose include:
 
-* **Project Manager / Agile Coach.** Responsible for driving the overall success of the project in collaboration with the government product owner, drawing on expertise in agile project management practices, agile coaching at the organizational and team levels, project status and progress reporting, risk/issue management, stakeholder management, continuous improvement, and contract administration.
+* **Project Manager/Agile Coach.** Responsible for driving the overall success of the project in collaboration with the government product owner, drawing on expertise in agile project management practices, agile coaching at the organizational and team levels, project status and progress reporting, risk/issue management, stakeholder management, continuous improvement, and contract administration.
 * **Product Strategist.** Responsible for advising the government product owner on shipping the right product, leveraging expertise in lean-agile product development, product strategy, product planning, metrics & KPIs definition, product requirements gathering and analysis, product requirements documentation, product requirements prioritization, product specifications definition, product testing, product analytics, and stakeholder management.
-* **User Experience Designer / User Interface Designer.** Responsible for designing a compelling experience for users of the product, drawing on expertise in user research, user modeling, conceptual modeling, design specifications documentation, interaction design, interface design, information architecture, content development, visual design, usability testing, participatory design, iterative design, and design tools.
-* **Fullstack Engineer.** Responsible for creating a usable, adaptable, reliable, and secure product, leveraging expertise in system architecture, frontend development, backend development, agile software development practices and tools, DevOps practices and tools, open source software, APIs, cloud computing, federal security standards, and Section 508 compliance.
+* **User Experience Designer/User Interface Designer.** Responsible for designing a compelling experience for users of the product, drawing on expertise in user research, user modeling, conceptual modeling, design specifications documentation, interaction design, interface design, information architecture, content development, visual design, usability testing, participatory design, iterative design, and design tools.
+* **Fullstack Engineer.** Responsible for creating a usable, adaptable, reliable, and secure product, leveraging expertise in system architecture, front-end development, back-end development, agile software development practices and tools, DevOps practices and tools, open source software, APIs, cloud computing, federal security standards, and Section 508 compliance.
 
-Note: These are role descriptions, not individual job descriptions. For the User Experience Designer / User Interface Designer and the Fullstack Engineer roles, it will likely take more than one person to completely perform each.
+Note: These are role descriptions, not individual job descriptions. For the User Experience Designer/User Interface Designer and the Fullstack Engineer roles, it’ll likely take more than one person to completely perform each.
 
 #### 2.4.3 Agile delivery phases
 
-We plan to organize the work into distinct, logical, overarching agile delivery phases that are based upon a [proven framework](https://www.gov.uk/service-manual/agile-delivery) popularized by the UK's Government Digital Service. A phased approach offers several advantages, including: (a) a construct for organizing the overall work, including what is to be done, by whom, and when; (b) a common, intuitive view of the project that gives everyone visibility into status and progress; and (c) frequent, logical breakpoints where government decision-makers can assess the state of the project, and decide whether to proceed or pivot.
+We plan to organize the work into distinct, logical, overarching agile delivery phases that are based upon a [proven framework](https://www.gov.uk/service-manual/agile-delivery) popularized by the UK’s Government Digital Service. A phased approach offers several advantages, including: (a) a construct for organizing the overall work, including what is to be done, by whom, and when; (b) a common, intuitive view of the project that gives everyone visibility into status and progress; and (c) frequent, logical breakpoints where government decision-makers can assess the state of the project, and decide whether to proceed or pivot.
 
 <table>
   <thead>
@@ -226,7 +226,7 @@ We plan to organize the work into distinct, logical, overarching agile delivery 
   <tbody>
     <tr>
       <td>Ensure everyone has a common understanding of the project</td>
-      <td>Understand the context of the proposed product's use, and validate the problem and the product</td>
+      <td>Understand the context of the proposed product’s use, and validate the problem and the product</td>
       <td>Establish the direction of the product</td>
       <td>Build a working prototype that meets the main user needs and evaluate its usefulness and usability</td>
       <td>Build a fully working product, test it with a larger subset of users, and prepare for live launch</td>
@@ -237,9 +237,9 @@ We plan to organize the work into distinct, logical, overarching agile delivery 
 
 ##### 2.4.3.1 Kickoff Phase
 
-During the Kickoff Phase, Skylight will work with the government to arrive at a shared understanding of the project, including how it will be delivered and and how the two parties will work together collaboratively.
+During the Kickoff Phase, Skylight will work with the government to arrive at a shared understanding of the project, including how it’ll be delivered and how the two parties will work together collaboratively.
 
-With the government's approval, Skylight will prepare and execute a plan for a formal kickoff meeting, the purpose of which is to:
+With the government’s approval, Skylight will prepare and execute a plan for a formal kickoff meeting, the purpose of which is to:
 
 * Co-create an initial product vision.
 * Build a shared understanding of how the project will be delivered.
@@ -276,11 +276,11 @@ Key outputs include:
 
 ##### 2.4.3.2 Discovery Phase
 
-During the Discovery Phase, Skylight will work with the government to understand the context of the envisioned products's use, validate the problem that the product's intended to solve *actually* exists, and validate that the product idea solves the problem through customer experiments.
+During the Discovery Phase, Skylight will work with the government to understand the context of the envisioned product’s use, validate the problem that the product’s intended to solve *actually* exists, and validate that the product idea solves the problem through customer experiments. 
 
 Key activities will include:
 
-* Conduct user research &mdash; find out who the users are, what their needs are, and how those needs are or aren't being met and analyze and synthesize findings.
+* Conduct user research &mdash; find out who the users are, what their needs are, and how those needs are or aren’t being met and analyze and synthesize findings.
 * Analyze the project environment, including business needs, stakeholders, laws, policies, and existing systems and technology.
 * Determine whether the envisioned product solves a real problem, drawing on the results from the user research.
 * Design and conduct an experiment with real customers to validate that the envisioned product solves the problem. ([Google Design Sprint](http://www.gv.com/sprint/) could be an option here.)
@@ -305,7 +305,7 @@ Key outputs will include:
 * Updated Project Data Sheet
 * Framing Phase Plan
 
-Note: At this stage, if it's determined that there isn't a valid problem to solve, or a digital platform isn't the appropriate solution to solve the problem, it may be necessary to terminate the project.
+Note: At this stage, if it’s determined that there isn’t a valid problem to solve, or a digital platform isn’t the appropriate solution to solve the problem, it may be necessary to terminate the project.
 
 ##### 2.4.3.3 Framing Phase
 
@@ -317,7 +317,7 @@ Key activities will include:
 * Develop a product roadmap, which communicates how the product is likely to evolve across several major releases.
 * Develop a product backlog, which includes writing, sizing, estimating, and prioritizing stories.
 * Define the MVP, and adjust the product backlog as necessary (e.g., reprioritizing items).
-* Create a product release plan that communicates which stories are targeted for delivery over the next three months based on the team's speculated delivery capacity.
+* Create a product release plan that communicates which stories are targeted for delivery over the next three months based on the team’s speculated delivery capacity.
 * Define the performance measurement system, including performance indicators and metrics related to the user experience, product, and infrastructure.
 * Finalize the plan for the Alpha Phase.
 
@@ -336,7 +336,7 @@ During the Alpha Phase, Skylight will build a working prototype that meets the m
 
 Key activities will include:
 
-* Conduct "Iteration Zero" activities, which includes developing the style guide and design pattern library, defining the high-level architecture, and setting up the initial infrastructure.
+* Conduct “Iteration Zero” activities, which includes developing the style guide and design pattern library, defining the high-level architecture, and setting up the initial infrastructure.
 * Develop a working prototype iteratively, integrating lean validation and UX design practices (e.g., user research, usability testing) continuously throughout the process.
 * Continuously collect, monitor, and analyze performance indicator and metrics data, and derive insights from that data to make informed product decisions.
 * Continuously update/refine project artifacts (e.g., product roadmap, product backlog, product release plan, domain model), as necessary.
@@ -355,7 +355,7 @@ Key outputs will include:
 
 ##### 2.4.3.5 Beta Phase
 
-During the Beta Phase, Skylight will build a fully working product, test it with a larger subset of users, and continuously improve it until it's ready to go live.
+During the Beta Phase, Skylight will build a fully working product, test it with a larger subset of users, and continuously improve it until it’s ready to go live.
 
 Key activities will include:
 
@@ -390,7 +390,7 @@ Key outputs will include:
 
 #### 2.4.4 Agile artifacts
 
-[One of agile's core values](http://agilemanifesto.org/) is "working software over comprehensive documentation." This doesn't mean that documentation isn't an important part of an agile project. It is important. Unlike traditional approaches to product delivery, however, agile doesn't view documentation as the primary measure of progress. While our approach does rely on the creation and maintenance of a number of artifacts, the most important one above all is the early and frequent delivery of working software that is driven and refined through continuous engagement with end users and stakeholders.
+[One of agile’s core values](http://agilemanifesto.org/) is “working software over comprehensive documentation.” This doesn’t mean that documentation isn’t an important part of an agile project. It’s important. Unlike traditional approaches to product delivery, however, agile doesn’t view documentation as the primary measure of progress. While our approach does rely on the creation and maintenance of a number of artifacts, the most important one above all is the early and frequent delivery of working software that’s driven and refined through continuous engagement with end users and stakeholders.
 
 #### 2.4.5 Modern technology stack (it takes a village)
 
@@ -407,25 +407,25 @@ Key outputs will include:
 * **Analytics:** Google Analytics, Heap
 * **Project Management:** JIRA
 
-Note: We would prefer to use Docker for containerization, but [cloud.gov's support for Docker images is currently limited](https://cloud.gov/docs/apps/experimental/docker/).
+Note: We would prefer to use Docker for containerization, but [cloud.gov’s support for Docker images is currently limited](https://cloud.gov/docs/apps/experimental/docker/).
 
 #### 2.4.6 Project management
 
-Skylight will provide a project manager to serve as the primary point of contact for the government's program office in order facilitate the successful planning and execution of this proposed project.
+Skylight will provide a project manager to serve as the primary point of contact for the government’s program office in order to facilitate the successful planning and execution of this proposed project.
 
-The Skylight project manager and team will collaborate closely with the government's assigned product owner on all aspects of the product.
+The Skylight project manager and team will collaborate closely with the government’s assigned product owner on all aspects of the product.
 
-When issues arise that directly affect Skylight's ability to perform, we will provide written, timely notification (within 24 hours of any anticipated or known impact) to the contracting officer's representative (COR) and the product owner.
+When issues arise that directly affect Skylight’s ability to perform, we will provide written, timely notification (within 24 hours of any anticipated or known impact) to the contracting officer’s representative (COR) and the product owner.
 
 During the Kickoff, Discovery, and Framing Phases, we will provide a weekly status report that includes the status of deliverables, work completed, planned actions, and open impediments. This is a more traditional approach of reporting project status. During the Alpha, Beta, and Live Phases, we recommend leveraging the artifacts that are continually created or updated over the course of an iteration to serve as the status report. These artifacts include, but are not limited to: Performance Indicators, Release Plan, Release Monitoring, Iteration Metrics, Iteration Monitoring, Task Board, and Impediments.
 
 #### 2.4.7 Open transition
 
-Our aim is to maintain the project in a transferable state at all times in order to mitigate any disruption associated with handing it over to another party.
+Our aim is to maintain the project in a transferable state at all times in order to mitigate any disruption associated with handing it over to another party. 
 
-First, we strongly recommend that the government allow the project, including source code, to be developed in the open public from the outset. Such open access to the project's assets will greatly reduce the amount of time it takes another party to ramp-up their knowledge.
+First, we strongly recommend that the government allow the project, including source code, to be developed in the open public from the outset. Such open access to the project’s assets will greatly reduce the amount of time it takes another party to ramp-up their knowledge.
 
-Second, we will employ agile documentation best practices such as preferring executable specifications over static documents, treating documentation as a requirement (as part of the "definition of done" for each story), and keeping documentation as simple and concise as possible. Such practices will allow us to mitigate at least one factor that often contributes to project failure &mdash; heavy documentation &mdash; while at the same time capturing essential project and product knowledge.
+Second, we will employ agile documentation best practices such as preferring executable specifications over static documents, treating documentation as a requirement (as part of the “definition of done” for each story), and keeping documentation as simple and concise as possible. Such practices will allow us to mitigate at least one factor that often contributes to project failure — heavy documentation — while at the same time capturing essential project and product knowledge.
 
 Third, through the relentless pursuit of sound technical practices such as automated deployments, we will effectively reduce any risk of operational lock-in.
 
@@ -457,12 +457,12 @@ The proposed deliverables for this effort include:
     <tr>
       <td>Discovery Phase Deliverables</td>
       <td>3 weeks from the end date of the Kickoff Phase</td>
-      <td>See "key outputs" in Section 2.4.3.2.</td>
+      <td>See “key outputs” in Section 2.4.3.2.</td>
     </tr>
     <tr>
       <td>Framing Phase Deliverables</td>
       <td>1 week from the end date of the Framing Phase</td>
-      <td>See "key outputs" in Section 2.4.3.3.</td>
+      <td>See “key outputs” in Section 2.4.3.3.</td>
     </tr>
     <tr>
       <td>Status Reports for Kickoff, Discovery, and Framing Phases</td>
@@ -472,17 +472,17 @@ The proposed deliverables for this effort include:
     <tr>
       <td>Alpha Phase Deliverables</td>
       <td>7 weeks from the end date of the Framing Phase</td>
-      <td>See "key outputs" in Section 2.4.3.4.</td>
+      <td>See “key outputs” in Section 2.4.3.4.</td>
     </tr>
     <tr>
       <td>Beta Phase Deliverables</td>
       <td>6 months from the end date of the Alpha Phase</td>
-      <td>See "key outputs" in Section 2.4.3.5.</td>
+      <td>See “key outputs” in Section 2.4.3.5.</td>
     </tr>
     <tr>
       <td>Live Phase Deliverables</td>
       <td>Ongoing from the end date of the Beta Phase</td>
-      <td>See "key outputs" in Section 2.4.3.6.</td>
+      <td>See “key outputs” in Section 2.4.3.6.</td>
     </tr>
     <tr>
       <td>Status Reports for Alpha, Beta, and Live Phases</td>
@@ -491,7 +491,7 @@ The proposed deliverables for this effort include:
     </tr>
     <tr>
       <td>Transition Plan</td>
-      <td>3 business days from the date of the government's request</td>
+      <td>3 business days from the date of the government’s request</td>
       <td>See Section 2.4.7.</td>
     </tr>
     <tr>
@@ -568,16 +568,16 @@ We propose a cross-functional team of six people in total who will perform the r
 
 All proposed personnel have significant experience and demonstrated expertise with the modern digital delivery practices and technology stack outlined in Sections 2.4.1 and 2.4.5, respectively.
 
-Note: Given the constraints of operating as a new startup (e.g., depth of resources), we can't guarantee the availability of the proposed key personnel due to the uncertain nature of when this proposal might result in a contract award. In other words, they should be treated as representative of the types of talent that we will supply. Our startup constraints also mean that we can't fully provide alternates for each key individual listed above.
+Note: Given the constraints of operating as a new startup (e.g., depth of resources), we can’t guarantee the availability of the proposed key personnel due to the uncertain nature of when this proposal might result in a contract award. In other words, they should be treated as representative of the types of talent that we will supply. Our startup constraints also mean that we can’t fully provide alternates for each key individual listed above.
 
 ### 2.6 Agency support
 
-What we'll need from the government in order to make this a success:
+What we’ll need from the government in order to make this a success:
 
 * A dedicated government product owner who is fully supported by influential executive project sponsors and wholly empowered to make product decisions (see [Play #6](https://playbook.cio.gov/#play6) in the U.S. Digital Services Playbook).
 * Determination to work in new ways such as building in the open, focusing on user needs first and foremost, and developing software using lean and agile methods.
 * Continuous engagement from your security personnel to help ensure security is built into the product at every step of the development process.
-* An interagency agreement with 18F for use of [cloud.gov](https://cloud.gov/) (recommended). (We're assuming that the proposed product will not be rated above a FISMA moderate impact level.)
+* An interagency agreement with 18F for use of [cloud.gov](https://cloud.gov/) (recommended). (We’re assuming that the proposed product will not be rated above a FISMA moderate impact level.)
 * Ability to use Mac computers in delivering work.
 * Access to facilities and equipment (including necessary credentials).
 
@@ -585,13 +585,13 @@ Note: Prior to the award of the contract, we would expect to confer with the con
 
 ### 2.7 Business impact
 
-We believe that a microconsulting services marketplace platform, which leverages the micro-purchase and private-sector-temporaries authorities, could be transformative for a number of reasons:
+We believe that a microconsulting services marketplace platform, which leverages the micro-purchase and private-sector-temporaries authorities, could be transformative for a number of reasons: 
 
-* Agency knowledge workers could rapidly acquire support from industry experts on a specific topic for a relatively low cost, thereby reducing unnecessary delay and expense to government projects caused by traditional procurement actions.
-* Traditional government contracting scoping models could be significantly streamlined in favor of more highly-focused, short-turnaround, low-cost engagement models, thereby increasing innovation and competition in the services marketplace.
-* The government could test out the capabilities of a firm before engaging in a larger body of work (that is, "try before buying"), thereby reducing procurement risk.
+* Agency knowledge workers could rapidly acquire expert advice from industry experts on a specific topic for a relatively low cost, thereby reducing unnecessary delay and expense to government projects caused by traditional procurement actions.
+* Traditional government contracting scoping models could be significantly streamlined in favor of highly-focused, short-turnaround, low-cost engagement models, thereby increasing innovation and competition in the services marketplace.
+* The government could test out the capabilities of a firm before engaging in a larger body of work (that is, “try before buying”), thereby reducing procurement risk.
 * Past performance could be take into account without any formal rating system, thereby introducing the kind of robust use of past performance found in the commercial world. (Source: [Dr. Steve Kelman](https://fcw.com/blogs/lectern/2017/07/kelman-microconsulting.aspx).)
-* The government could tap into the "gig economy," thereby increasing access to a wider pool of talent, as well as increasing economic opportunities for non-traditional players.
+* The government could tap into the “gig economy,” thereby increasing access to a wider pool of talent, as well as increasing economic opportunities for non-traditional players.
 
 The following storyboard illustrates one potential use case for a microconsulting services marketplace platform:
 
@@ -601,7 +601,7 @@ The following storyboard illustrates one potential use case for a microconsultin
 
 ### 3.1 Proposed cost
 
-Please see the email Excel attachment, "Microconsulting Services Marketplace Platform Cost Model," for a full breakdown and basis for the costs.
+Please see the email Excel attachment, “Microconsulting Services Marketplace Platform Cost Model,” for a full breakdown and basis for the costs.
 
 ### 3.2 Proposal validity period
 
@@ -658,11 +658,11 @@ We propose a total period of performance of 27 months, with one base period and 
 
 #### 3.5.1 Brief overview of Skylight
 
-Skylight is a new HUBZone digital consultancy based out of Chapel Hill, North Carolina. Our mission is to make government work in a digital world using design, technology, and procurement. We're currently comprised of 8 people, most of whom are former Presidential Innovation Fellows. Together, we've co-founded and scaled 18F, built and sold technology startups, created standards that power the internet, and more. Given our unique blend of government and commercial expertise, agencies rely on us to solve their toughest digital challenges.
+Skylight is a new digital consultancy based out of Sarasota, Florida. Our mission is to make government work in a digital world using design, technology, and procurement. We’re currently comprised of 8 people, most of whom are former Presidential Innovation Fellows. Together, we’ve co-founded and scaled 18F, built and sold technology startups, created standards that power the internet, and more. Given our unique blend of government and commercial expertise, agencies rely on us to solve their toughest digital challenges.
 
 #### 3.5.2 Previous experience
 
-As an entity, we're new, but the individuals on our team possess decades worth of experience delivering similar digital products and platforms, which have required great user experiences, enduring solution architectures, and sustained user growth.
+As an entity, we’re new, but the individuals on our team possess decades worth of experience delivering similar digital products and platforms, which have required great user experiences, enduring solution architectures, and sustained user growth.
 
 #### 3.5.3 Relevant past performance
 
@@ -676,10 +676,10 @@ We recommend executing the project offsite with onsite travel as necessary.
 
 To the best of our knowledge and belief, Skylight and our teaming partner have no organizational conflict of interest (OCI) with regards to the proposed work. We will execute our standard OCI practices (e.g., nondisclosure agreements, no-bidding on contracts where a conflict might exist) in order to mitigate any potential issues.
 
-Although we defer to the government's judgment, we don't not believe that the nature of the proposed work requires a security clearance beyond the Public Trust Security Clearance.
+Although we defer to the government’s judgment, we don’t not believe that the nature of the proposed work requires a security clearance beyond the Public Trust Security Clearance.
 
-The proposed work doesn't not have any material environmental impact.
+The proposed work doesn’t not have any material environmental impact.
 
 ### 3.7 Contacts made
 
-We haven't directly contacted any agency official regarding this proposal. All electronic submissions of this proposal were sent to each agency’s designated email address.
+We haven’t directly contacted any agency official regarding this proposal. All electronic submissions of this proposal were sent to each agency’s designated email address.
