@@ -276,7 +276,7 @@ Key outputs include:
 
 ##### 2.4.3.2 Discovery Phase
 
-During the Discovery Phase, Skylight will work with the government to understand the context of the envisioned product’s use, validate the problem that the product’s intended to solve *actually* exists, and validate that the product idea solves the problem through customer experiments. 
+During the Discovery Phase, Skylight will work with the government to understand the context of the envisioned product’s use, validate the problem that the product’s intended to solve *actually* exists, and validate that the product idea solves the problem through customer experiments.
 
 Key activities will include:
 
@@ -421,7 +421,7 @@ During the Kickoff, Discovery, and Framing Phases, we will provide a weekly stat
 
 #### 2.4.7 Open transition
 
-Our aim is to maintain the project in a transferable state at all times in order to mitigate any disruption associated with handing it over to another party. 
+Our aim is to maintain the project in a transferable state at all times in order to mitigate any disruption associated with handing it over to another party.
 
 First, we strongly recommend that the government allow the project, including source code, to be developed in the open public from the outset. Such open access to the project’s assets will greatly reduce the amount of time it takes another party to ramp-up their knowledge.
 
@@ -452,7 +452,7 @@ The proposed deliverables for this effort include:
     <tr>
       <td>Kickoff Phase Deliverables </td>
       <td>1 week from the date that the government approves the Kickoff Phase Plan</td>
-      <td>See "key outputs" in Section 2.4.3.1.</td>
+      <td>See “key outputs” in Section 2.4.3.1.</td>
     </tr>
     <tr>
       <td>Discovery Phase Deliverables</td>
@@ -524,7 +524,7 @@ We propose a cross-functional team of six people in total who will perform the r
           <li>Over 15 years of experience as an agile practitioner and coach (originally trained by agile pioneer Kent Beck)</li>
           <li>Co-founded 18F in 2014, a 200-person digital services center of excellence within the General Services Administration</li>
           <li>Served as a White House Presidential Innovation Fellow in 2013</li>
-          <li>From 2008 to 2013, served as the Director of Planview's large product development team, where he institutionalized agile ways of thinking and working</li>
+          <li>From 2008 to 2013, served as the Director of Planview’s large product development team, where he institutionalized agile ways of thinking and working</li>
           <li>Holds a PhD in computer science from the University of Texas</li>
         </ul>
       </td>
@@ -585,7 +585,7 @@ Note: Prior to the award of the contract, we would expect to confer with the con
 
 ### 2.7 Business impact
 
-We believe that a microconsulting services marketplace platform, which leverages the micro-purchase and private-sector-temporaries authorities, could be transformative for a number of reasons: 
+We believe that a microconsulting services marketplace platform, which leverages the micro-purchase and private-sector-temporaries authorities, could be transformative for a number of reasons:
 
 * Agency knowledge workers could rapidly acquire expert advice from industry experts on a specific topic for a relatively low cost, thereby reducing unnecessary delay and expense to government projects caused by traditional procurement actions.
 * Traditional government contracting scoping models could be significantly streamlined in favor of highly-focused, short-turnaround, low-cost engagement models, thereby increasing innovation and competition in the services marketplace.
